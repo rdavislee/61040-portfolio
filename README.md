@@ -1,14 +1,13 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
+# Davis Lee's Portfolio
+This is my portfolio repository showcasing my work and projects as a computer science and engineering student.
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+Hi there! My name is Davis Lee, and I'm a Junior studying Computer Science and Engineering. I'm passionate about technology and always eager to learn new things and tackle challenging problems.
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I run track and enjoy staying active.
+2. I love spending time in nature and exploring the outdoors.
+3. I'm originally from Alabama.
 
 ![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
 
