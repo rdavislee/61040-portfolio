@@ -7,9 +7,9 @@ Hi there! My name is Davis Lee, and I'm a Junior studying Computer Science and E
 Some fun facts about me:
 1. I run track and enjoy staying active.
 2. I love spending time in nature and exploring the outdoors.
-3. I'm originally from Alabama.
+3. I'm from Alabama.
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+![picture of spongebob](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEdDvJApGVeL06DS0m20kWGPyOrTLxvitRw&s)
 
 
 # Table of Contents
